@@ -1,0 +1,207 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Q1539_Kth_Missing_Positive_No",
+            "request": "launch",
+            "mainClass": "Q1539_Kth_Missing_Positive_No",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q744_Find_Smallest_Letter_Greater_Than_Target",
+            "request": "launch",
+            "mainClass": "Q744_Find_Smallest_Letter_Greater_Than_Target",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Floor_Of_No_In_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Floor_Of_No_In_Sorted_Array",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Search_In_Nearly_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Search_In_Nearly_Sorted_Array",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Divide_Two_No_Using_BS",
+            "request": "launch",
+            "mainClass": "Divide_Two_No_Using_BS",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Odd_Appering_Element",
+            "request": "launch",
+            "mainClass": "Odd_Appering_Element",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q852_Peak_Element_In_Mountain_Array",
+            "request": "launch",
+            "mainClass": "Q852_Peak_Element_In_Mountain_Array",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q153_Min_Pivot_Element",
+            "request": "launch",
+            "mainClass": "Q153_Min_Pivot_Element",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Peak_Element",
+            "request": "launch",
+            "mainClass": "Peak_Element",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Max_Pivot_Element",
+            "request": "launch",
+            "mainClass": "Max_Pivot_Element",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "BS_Sqrt",
+            "request": "launch",
+            "mainClass": "BS_Sqrt",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "BS_LastOccurrence",
+            "request": "launch",
+            "mainClass": "BS_LastOccurrence",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "BS_FirstOccurrence",
+            "request": "launch",
+            "mainClass": "BS_FirstOccurrence",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q34_FirstAndLastPosition",
+            "request": "launch",
+            "mainClass": "Q34_FirstAndLastPosition",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q33_SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "Q33_SearchInRotatedSortedArray",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q977_SquaresOfSortedArray",
+            "request": "launch",
+            "mainClass": "Q977_SquaresOfSortedArray",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q283_MoveZeroes",
+            "request": "launch",
+            "mainClass": "Q283_MoveZeroes",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q75_SortColors",
+            "request": "launch",
+            "mainClass": "Q75_SortColors",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q11_ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "Q11_ContainerWithMostWater",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q169_MajorityElement",
+            "request": "launch",
+            "mainClass": "Q169_MajorityElement",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q167_TwoSumII",
+            "request": "launch",
+            "mainClass": "Q167_TwoSumII",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q26_RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Q26_RemoveDuplicates",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q121_BestTimeToBuySellStock",
+            "request": "launch",
+            "mainClass": "Q121_BestTimeToBuySellStock",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q189_RotateArray",
+            "request": "launch",
+            "mainClass": "Q189_RotateArray",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q53_MaximumSubarray",
+            "request": "launch",
+            "mainClass": "Q53_MaximumSubarray",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSumQueries",
+            "request": "launch",
+            "mainClass": "PrefixSumQueries",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "PrefixSum",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Q303_NumArray",
+            "request": "launch",
+            "mainClass": "Q303_NumArray",
+            "projectName": "2300300100137_RIDDHI-JAIN_ARYAMAN_16442089"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

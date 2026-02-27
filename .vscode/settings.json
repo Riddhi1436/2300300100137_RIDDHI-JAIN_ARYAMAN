@@ -1,0 +1,19 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "src",
+        "25_02_2026/Classroom",
+        "25_02_2026/Assignment",
+        "24_02_2026/Classroom",
+        "24_02_2026/Assignment",
+        "23_02_2026/Classroom",
+        "23_02_2026/Assignment",
+        "22_02_2026/Assignment",
+        "21_02_2026/Classroom",
+        "21_02_2026/Assignment",
+        "19_02_2026/Classroom",
+        "19_02_2026/Assignment",
+        "26_02_2026/Assignment"
+    ],
+    "java.project.outputPath": "bin"
+}
