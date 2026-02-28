@@ -1,5 +1,6 @@
 import java.util.*;
 public class Search_In_A_2D_Matrix {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
